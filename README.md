@@ -72,7 +72,7 @@ http://127.0.0.1:8000/
 
 ### 📚 2. Books Management
 ![Books Management](https://github.com/smsnjr7/MidtermExam/blob/main/books.png)
-*Section for editing, deleting, and viewing book records.*
+*Section for adding, editing, deleting, and viewing book records.*
 
 ---
 
